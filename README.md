@@ -1,6 +1,6 @@
-# [JAMstack - Inverse](https://jamstack-inverse.appseed.us/)
+# [JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Inverse Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Inverse Pixelarity design.
 
 <br />
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Inverse demo](https://jamstack-inverse.appseed.us/)
- - [Inverse](https://pixelarity.com/inverse) - the design provided by Pixelarity 
+
+- [Jamstack Inverse](https://jamstack-inverse.appseed.us/) - live demo
+- [Pixelarity Inverse](https://pixelarity.com/inverse) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-inverse.git`
 - change directory to `priv-jamstack-inverse`
 - `yarn` - install deps
@@ -31,7 +32,8 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Inverse](https://jamstack-inverse.appseed.us/) - provided by **AppSeed**
+[JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity) - provided by **AppSeed**
