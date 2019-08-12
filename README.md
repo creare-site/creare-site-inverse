@@ -1,45 +1,46 @@
-# [JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity)
+# [Creare Site Inverse](https://creare-site-inverse.websitemarket.ro/) - Site Prezentare
 
-Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Inverse Pixelarity design.
-
-<br />
-
-![JAMstack Inverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-inverse-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## License
-
-This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
+![Creare Site Inverse](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-inverse-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Jamstack Inverse](https://jamstack-inverse.appseed.us/) - live demo
-- [Pixelarity Inverse](https://pixelarity.com/inverse) - the design provided by Pixelarity 
+- Site de prezentare - Inverse
+- Live [DEMO](https://creare-site-inverse.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-inverse.git`
-- change directory to `priv-jamstack-inverse`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/creare-site-inverse.git
+$ cd creare-site-inverse
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Inverse](https://appseed.us/apps/jamstack/jamstack-inverse-pixelarity) - provided by **AppSeed**
+Site Prezentare - [Inverse](https://creare-site-inverse.websitemarket.ro/) un produs **WebsiteMarket**
